@@ -1,2 +1,3 @@
-# INFINITE-RUNNER-GAME-2-by-Adithya-Pratap-Chatterjee
-INFINITE RUNNER GAME-2 by Adithya Pratap Chatterjee
+# Project-39
+
+## OutPut Link - https://sribalaji1111.github.io/INFINITE-RUNNER-GAME-2/
